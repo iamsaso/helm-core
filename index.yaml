@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  generic-app:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-06-11T11:05:45.345906697-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 1df05fb906e0963dc79c484c5e91fabf82db99ae736f94503512a12118c0c2b4
+    name: generic-app
+    urls:
+    - generic-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-06-11T11:05:45.344571022-07:00"
